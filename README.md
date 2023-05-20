@@ -41,4 +41,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the [MIT License](LICENSE).

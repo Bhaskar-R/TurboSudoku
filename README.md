@@ -33,25 +33,12 @@ To run TurboSudoku on your local machine, follow these steps:
 
 ## Screenshots
 
-Include some screenshots of your application here to provide a visual representation.
+![screenshot](screenshot.png)
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to TurboSudoku, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature`
-5. Submit a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-- Your Name - [Your Email]
-- Project Link: [https://github.com/your-username/TurboSudoku](https://github.com/your-username/TurboSudoku)
-
-![screenshot](screenshot.png)
